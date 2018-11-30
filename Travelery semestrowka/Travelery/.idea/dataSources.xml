@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="sem@localhost" uuid="1fdc3f85-9bf3-441d-a370-2c1cd38aa771">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/sem</jdbc-url>
+      <default-dialect>PostgreSQL</default-dialect>
+    </data-source>
+  </component>
+</project>
