@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Travelery:war exploded">
+    <output-path>$PROJECT_DIR$/.idea/artifacts</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Travelery/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Travelery" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.json:json:20160810" />
+          <element id="library" level="project" name="Maven: org.postgresql:postgresql:42.2.2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Travelery/web/Web2" />
+      <element id="javaee-facet-resources" facet="Travelery/web/Web3" />
+    </root>
+  </artifact>
+</component>
