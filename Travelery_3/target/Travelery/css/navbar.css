@@ -1,0 +1,67 @@
+.navbar {
+    font-family: 'Oxygen', sans-serif;
+    background-color: #000000;
+    overflow: auto;
+}
+
+.navbar-brand {
+    font-size: 2em;
+}
+
+.navbar-dark {
+    background-color: #000000;
+}
+
+.btn-custom:hover {
+    background-color: #ff0000;
+}
+.btn-custom {
+    background-color: #000000;
+}
+
+.nav-item {
+    margin-top: 6px;
+    margin-left: 5px;
+    font-size: 1.1em;
+}
+
+#About {
+    font-family: 'Oxygen', sans-serif;
+}
+
+.modal-content {
+    background-color: #BDBDBD;
+    color: #000;
+    font-size: 0.9em;
+}
+
+.modal-content h3 {
+    font-size: 1.4em;
+    margin-bottom: 10px;
+}
+
+.modal-header {
+    border-bottom-width: 0px;
+}
+
+.modal-body p a {
+    color: #000;
+}
+
+.modal-body p a:hover {
+    color: #000;
+}
+
+.fade.in {
+    opacity: 1;
+}
+
+.modal.in .modal-dialog {
+    -webkit-transform: translate(0, 0);
+    -o-transform: translate(0, 0);
+    transform: translate(0, 0);
+}
+
+.modal-backdrop.in {
+    opacity: 0.5;
+}
